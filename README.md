@@ -2,7 +2,7 @@
 
 El proyecto busca predecier las ventas de productos.
 
-Conclusiones
+#Conclusiones
 
 El mejor score = 58.87con n_estimators = 900, se consiguió Sin utilizar OneHotEncoder en las columnas 'Outlet_Identifier' y 'Outlet_Size' , solo se aplicó LabelEncoder para esas columnas
 
